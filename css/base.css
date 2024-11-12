@@ -16,6 +16,7 @@
   --carnation-pink: #ffafcc;
   --fire-tale: #ffc8dd;
   --prisma-color: #feeafa;
+  --violet-color: #c43ad6;
 
   /* Text colors */
   --text-gray: #adb9c7;
@@ -24,6 +25,9 @@
   /* Decoration */
   --fire: #ff6d00;
   --electric: #64d3ff;
+  --gradient-header: linear-gradient(to bottom, #121e3c, var(--background));
+  --gradient-text: linear-gradient(to top, #30cfd0, #c43ad6);
+  --gradient-price: linear-gradient(to rigth, #30cfd0, #c43ad6);
 
   /*Tipografia*/
   --montse: "Montserrat", sans-serif;
